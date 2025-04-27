@@ -1,0 +1,47 @@
+/* Projects.css */
+#projects {
+    padding: 4rem 2rem;
+    background-color: #fafbfc;
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: 3rem auto;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  }
+  
+  #projects h2 {
+    font-size: 2.8rem;
+    color: #2c3e50;
+    margin-bottom: 2rem;
+    font-weight: bold;
+  }
+  
+  .project-item {
+    margin-bottom: 2.5rem;
+  }
+  
+  .project-item h4 {
+    font-size: 1.6rem;
+    color: #3498db;
+    margin-bottom: 0.7rem;
+  }
+  
+  .project-item p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.7;
+    padding: 0 1rem;
+    text-align: justify;
+  }
+  
+  #projects hr {
+    margin-top: 2rem;
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ 

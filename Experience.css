@@ -1,0 +1,52 @@
+/* Experience.css */
+#experience {
+    padding: 4rem 2rem;
+    background-color: #f7f9fc;
+    border-radius: 12px;
+    max-width: 900px;
+    margin: 3rem auto;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  }
+  
+  #experience h2 {
+    font-size: 2.8rem;
+    color: #222;
+    margin-bottom: 2rem;
+    font-weight: bold;
+  }
+  
+  .experience-item {
+    margin-bottom: 2rem;
+  }
+  
+  .experience-item h4 {
+    font-size: 1.6rem;
+    color: #007bff;
+    margin-bottom: 0.5rem;
+  }
+  
+  .experience-item i {
+    font-style: italic;
+    color: #777;
+    font-size: 0.95rem;
+  }
+  
+  .experience-item p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.8;
+    padding: 0 1rem;
+    text-align: justify;
+  }
+  
+  #experience hr {
+    margin-top: 2rem;
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  

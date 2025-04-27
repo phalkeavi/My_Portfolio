@@ -1,0 +1,33 @@
+/* Education.css */
+#education {
+    padding: 4rem 2rem;
+    background-color: #f0f4f8;
+    border-radius: 12px;
+    max-width: 800px;
+    margin: 3rem auto;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  #education h2 {
+    font-size: 2.8rem;
+    color: #333;
+    margin-bottom: 2rem;
+    font-weight: bold;
+  }
+  
+  .education-item {
+    margin-bottom: 2rem;
+  }
+  
+  .education-item h4 {
+    font-size: 1.5rem;
+    color: #4a90e2;
+    margin-bottom: 0.5rem;
+  }
+  
+  .education-item p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+  }

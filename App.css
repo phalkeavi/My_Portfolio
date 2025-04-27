@@ -1,0 +1,44 @@
+body {
+  margin :0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f4f4;
+  color:#333;
+}
+
+section {
+  padding : 60px 20px;
+};
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f2f5; /* 👈 Light background for full website */
+  color: #333;
+}
+
+section {
+  padding: 60px 20px;
+}
+
+/* Different background for each section */
+#about {
+  background-color: #ffffff; /* White */
+}
+
+#projects {
+  background-color: #f9f9f9; /* Very light gray */
+}
+
+#skills {
+  background-color: #ffffff; 
+}
+
+#contact {
+  background-color: #f9f9f9; 
+}
+
+footer {
+  background-color: #333; 
+  color: white;
+}

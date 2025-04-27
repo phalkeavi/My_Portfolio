@@ -1,0 +1,29 @@
+/* Navbar.css */
+.navbar {
+    background-color: #1f1f1f; /* Dark background */
+    padding: 20px 40px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center; /* Center content */
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 1.5px;
+    color: #ffffff;
+    transition: color 0.3s ease;
+  }
+  
+  /* Hover effect on heading */
+  .navbar h1:hover {
+    color: #00bfff; /* Light blue hover color */
+    cursor: pointer;
+  }
+  
